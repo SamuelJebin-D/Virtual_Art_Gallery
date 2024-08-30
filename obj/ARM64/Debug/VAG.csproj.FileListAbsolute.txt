@@ -1,0 +1,7 @@
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\bin\ARM64\Debug\VAG.exe.config
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\bin\ARM64\Debug\VAG.exe
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\bin\ARM64\Debug\VAG.pdb
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\obj\ARM64\Debug\VAG.csproj.AssemblyReference.cache
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\obj\ARM64\Debug\VAG.csproj.CoreCompileInputs.cache
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\obj\ARM64\Debug\VAG.exe
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\obj\ARM64\Debug\VAG.pdb

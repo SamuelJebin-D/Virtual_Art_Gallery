@@ -1,0 +1,2 @@
+
+Data Source=SAM;Initial Catalog=VirtualArtGallery;Integrated Security=True;Trust Server Certificate=True

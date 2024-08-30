@@ -1,0 +1,14 @@
+C:\Users\sams3\Desktop\Hexaware\New folder\VAG\bin\Debug\VAG.exe.config
+C:\Users\sams3\Desktop\Hexaware\New folder\VAG\bin\Debug\VAG.exe
+C:\Users\sams3\Desktop\Hexaware\New folder\VAG\bin\Debug\VAG.pdb
+C:\Users\sams3\Desktop\Hexaware\New folder\VAG\obj\Debug\VAG.csproj.AssemblyReference.cache
+C:\Users\sams3\Desktop\Hexaware\New folder\VAG\obj\Debug\VAG.csproj.CoreCompileInputs.cache
+C:\Users\sams3\Desktop\Hexaware\New folder\VAG\obj\Debug\VAG.exe
+C:\Users\sams3\Desktop\Hexaware\New folder\VAG\obj\Debug\VAG.pdb
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\bin\Debug\VAG.exe.config
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\bin\Debug\VAG.exe
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\bin\Debug\VAG.pdb
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\obj\Debug\VAG.csproj.AssemblyReference.cache
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\obj\Debug\VAG.csproj.CoreCompileInputs.cache
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\obj\Debug\VAG.exe
+C:\Users\sams3\Desktop\Hexaware\Dummy\VAG\obj\Debug\VAG.pdb
